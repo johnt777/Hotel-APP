@@ -36,5 +36,5 @@ var routes = require('./api/routes');
 # My API service would have been called expedia.sevice.js but I didn't get to make that file.
 The backend was my main concern and I ran into errors editing the front-end. This git push was my most dependable version.
 
-# Should have pushed o mlabs
+# Should have pushed to mlabs
 hotel dummy data in hotel-data.json
